@@ -1,0 +1,17 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.247391,52.580062 ]
+    },
+    "properties": {
+    "Address":"PE1 2EL",
+    "Easting":518852,
+    "Northing":299470
+    }
+  }
+]
+}
